@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![JanesOosthuizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanesOosthuizen)](https://github.com/JanesOosthuizen/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanesOosthuizen)](https://git.io/streak-stats)
 
 ### Languages & Tools 🛠
