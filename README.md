@@ -2,7 +2,7 @@
 
 ### Hi there, I am a Software Developer from South Africa with over 17 Years experience in development. 👋
 
-<center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanesOosthuizen)](https://git.io/streak-stats) </center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanesOosthuizen)](https://git.io/streak-stats)
 
 ### Languages & Tools 🛠
 
