@@ -1,4 +1,4 @@
-<img src="https://www.janes.co.za/wp-content/uploads/2022/04/coding_2.jpgg" alt="banner that says Janes Oosthuizen - software developer, artist, designer">
+<img src="https://www.janes.co.za/wp-content/uploads/2022/04/coding_2.jpg" alt="banner that says Janes Oosthuizen - software developer, artist, designer">
 
 ### Hi there, I am a Software Developer from South Africa with over 17 Years experience in development. 👋
 
