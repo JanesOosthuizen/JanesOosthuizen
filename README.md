@@ -1,3 +1,5 @@
+<img src="https://www.janes.co.za/wp-content/uploads/2022/04/coding.jpg" alt="banner that says Janes Oosthuizen - software developer, artist, designer">
+
 ### Hi there 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanesOosthuizen)](https://git.io/streak-stats)
