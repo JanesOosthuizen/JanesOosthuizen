@@ -2,8 +2,6 @@
 
 ### Hi there, I am a Software Developer from South Africa with over 17 Years experience.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanesOosthuizen)](https://git.io/streak-stats)
-
 ### Languages & Tools 🛠
 
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
