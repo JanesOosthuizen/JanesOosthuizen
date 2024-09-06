@@ -1,6 +1,3 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-<lottie-player src="https://lottie.host/embed/55b5002f-dd95-4095-ac68-0a91d57b6c8e/HvZLXCaYd6.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
 <img src="https://www.janes.co.za/wp-content/uploads/2022/04/coding_2.jpg" alt="banner that says Janes Oosthuizen - software developer, artist, designer">
 
 ### Hi there, I am a Software Developer from South Africa with over 17 Years experience.
