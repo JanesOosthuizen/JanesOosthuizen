@@ -1,6 +1,6 @@
 <img src="https://www.janes.co.za/wp-content/uploads/2025/10/space.png" alt="banner that says Janes Oosthuizen - software developer, artist, designer">
 
-### Hi there, I am a Software Developer from South Africa with over 17 Years experience.
+### Hi there, I am a Software Engineer from South Africa with over 20 Years experience.
 
 ### Languages & Tools 🛠
 
